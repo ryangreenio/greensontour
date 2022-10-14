@@ -1,12 +1,12 @@
 ---
 layout: projects.njk
-title: Projects
+title: Adventures
 date: 2021-01-01
-permalink: /projects/index.html
+permalink: /adventures/index.html
 metaDescription: A sample Projects page
-subtitle: This is the page where all projects will live
-emoji: 💻
+subtitle: This is the page where all our adventures live
+emoji: ✈️
 eleventyNavigation:
-  key: Projects
+  key: Adventures
   order: 3
 ---

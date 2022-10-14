@@ -3,7 +3,7 @@ layout: base.njk
 section: home
 ---
 <div class="home-page">
-	<div class="home-page__bg-square"></div>
+	
 
   {# Hero #}
   <div class="hero">
@@ -26,7 +26,7 @@ section: home
 
   {# Projects #}
   <hr/>
-  <h2>Projects</h2>
+  <h2>Adventures</h2>
   {% from "macros/projectlist.njk" import projectlist %}
   {{ projectlist(projects = collections.project | reverse) }}
 

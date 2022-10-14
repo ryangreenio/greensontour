@@ -7,7 +7,7 @@ pagination:
   size: 20
 permalink: "blog{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html"
 metaDescription: A sample Blog page listing various posts.
-subtitle: A collection of technical blog posts and random thoughts
+subtitle: A collection of our insights and tips!
 eleventyNavigation:
   key: Blog
   order: 2

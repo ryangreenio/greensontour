@@ -1,6 +1,7 @@
 {
-  "title": "Fernfolio",
-  "image": "src/assets/img/fern-in-hand.jpeg",
-  "image_alt": "Fern in hand",
-  "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
+  "title": "Greens On Tour",
+  "image": "src/assets/img/profile-photo.webp",
+  "image_alt": "Greens On Tour Profile",
+  "body": "Hi! We’re Georgia & Ryan, a husband and wife duo traveling the word as much as possible and documenting our journey."
+  
 }
