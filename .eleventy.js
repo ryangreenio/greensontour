@@ -33,6 +33,13 @@ module.exports = function (eleventyConfig) {
 // Add robots.txt
   eleventyConfig.addPassthroughCopy("robots.txt");
 
+  // eleventy-plugin-time-to-read
+  const timeToRead = require('eleventy-plugin-time-to-read');
+
+module.exports = function(eleventyConfig) {
+  eleventyConfig.addPlugin(timeToRead);
+}
+
   // Don't process folders with static assets
   eleventyConfig.addPassthroughCopy('./src/favicon.ico');
   eleventyConfig.addPassthroughCopy('./src/admin');

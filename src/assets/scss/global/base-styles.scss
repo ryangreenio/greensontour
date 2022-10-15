@@ -179,8 +179,17 @@ table {
 td,
 th {
   padding: 0.5em;
-  border-bottom: 1px solid var(--color-bg-secondary);
+  border: 1px solid rgb(20, 20, 20);
+  font-size: smaller;
 }
+
+th {
+  background-color: rgb(232, 232, 232);
+
+}
+
+
+
 
 /* Buttons, forms and input */
 input,
