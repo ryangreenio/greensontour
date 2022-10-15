@@ -30,6 +30,9 @@ module.exports = function (eleventyConfig) {
   // Minify HTML output
   eleventyConfig.addTransform('htmlmin', minifyHtml);
 
+// Add robots.txt
+  eleventyConfig.addPassthroughCopy("robots.txt");
+
   // Don't process folders with static assets
   eleventyConfig.addPassthroughCopy('./src/favicon.ico');
   eleventyConfig.addPassthroughCopy('./src/admin');

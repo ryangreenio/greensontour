@@ -1,8 +1,8 @@
 ---
 title: Pacsafe Venturesafe Exp45 Review
-metaDescription: Add code samples to your markdown files
+metaDescription: Looking for a backpack to travel the world in? Should it be the Venturesafe Exp45? We've put together this useful guide to help you make the right choice for your travel needs.
 date: 2022-14-01T00:00:00.000Z
-summary: Add code samples to your markdown files
+summary: Looking for a backpack to travel the world in? Should it be the Venturesafe Exp45?
 tags:
   - pacsafe
   - review
@@ -10,9 +10,7 @@ tags:
   - travel
   - exp45
 ---
-**Looking for a backpack to travel the world in? Should it be the Venturesafe Exp45? We've put together this useful guide to help you make the right choice for your travel needs.**
-
-![Fern](/src/assets/img/fern-in-hand.jpeg "Fern")
+Looking for a backpack to travel the world in? Should it be the Venturesafe Exp45? We've put together this useful guide to help you make the right choice for your travel needs.
 
 We recently purchased the Venturesafe Exp45 carry-on backpack from Pacsafe and after travelling three months with them, we've put together a comprehensive review to help you decide if the Exp45 is the right bag for you on your travels.
 
@@ -21,6 +19,8 @@ We recently purchased the Venturesafe Exp45 carry-on backpack from Pacsafe and a
 The Pacsafe Venturesafe Exp45 is a security focused travel back-pack, with a generous 45 litre capacity, measuring 21.7 x 13.8 x 8.7 in / 55 x 35 x 22 cm (H x W x D). The size meets the majority of airlines maximum threshold for carry-on (more on that in a moment).
 
 With anti-theft features such as lockable zips, slashguard mesh and water resistant material, the Venturesafe EXP45 is a worthy contender to other backpacks on the market like the fan-favourite Osprey Farpoint.
+
+![Pacsafe Backpack](/src/assets/img/pacsafe-backpack-exp45.webp "Pacsafe Backpack")
 
 ## Pros
 
