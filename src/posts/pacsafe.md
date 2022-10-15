@@ -14,9 +14,9 @@ tags:
 
 ![Male Venturesafe Exp45](/src/assets/img/pacsafe-exp45-8.webp "Male Venturesafe Exp45")
 
-Looking for a backpack to travel the world in? Should it be the Venturesafe Exp45? We've put together this useful guide to help you make the right choice for your travel needs.
+Looking for a backpack to travel the world with? Should it be the Venturesafe Exp45? We've put together this useful guide to help you make the right choice for your travel needs.
 
-We recently purchased the Venturesafe Exp45 carry-on backpack from Pacsafe and after travelling three months with them, we've put together a comprehensive review to help you decide if the Exp45 is the right bag for you on your travels.
+We recently purchased the Venturesafe Exp45 carry-on backpack from Pacsafe and after travelling for three months with them, we've put together a comprehensive review to help you decide if the Exp45 is the right bag for you on your travels.
 
 ## What is the Pacsafe Venturesafe Exp45?
 
@@ -36,39 +36,39 @@ With anti-theft features such as lockable zips, slashguard mesh and water resist
 
 ## Cons
 
-- The front pouch is deep to access
+- The front pouch can be difficult to access
 - Average hip support
 - Expensive
 
-## Design: how does it look and feel?
+## Design: How does it look and feel?
 
-The bag is made from high quality materials and feels premium, but does a very subtle job of remaining low-key when travelling. You'll blend into the crowd and not feel like a tourist wearing this and you could easily wear this into an office or professional work environment.
+The bag is made from high quality materials and has a premium feel, but does a very subtle job of remaining low-key when travelling. You'll blend into the crowd wearing this. You could also easily wear this into an office or professional work environment for those of you working and travelling.
 
-Inside the bag is a light grey camo pattern and a range of different mesh pockets for organization and quick access. We use the front pocket meshes for cables and USBs.
+The inside of the bag is a light grey camo pattern and a range of different mesh pockets for organisation and quick access. We use the front pocket meshes for cables and USBs.
 
 We went with the colour black, but it does come in blue (ECONYL®) and we've also seen it in purple too. The Pacsafe logo is visible on the outside but once again it remains very subtle.
 
-I am male, 5ft 7 and this is how the bag looked like on me:
+Ryan is 5ft 7 and this is how the bag looked like on me:
 
 ![Male Venturesafe Exp45](/src/assets/img/pacsafe-exp45-6.webp "Male Venturesafe Exp45")
 
-My partner is female, 5ft 2 and this is how the bag looked on her:
+Georgia is 5ft 2 and this is how the bag looked on her:
 
 ![Female Venturesafe Exp45](/src/assets/img/pacsafe-exp45-5.webp "Female Venturesafe Exp45")
 
 Wearing the backpack is comfortable – we've packed it out to around 10kg and the straps and waist support give generous support. You can tuck the straps away easily and it can be carried like a briefcase instead.
 
-Compression straps work well and are super useful to make your dimensions more compact!
+The compression straps work well and are super useful to make your dimensions more compact!
 
-## Ease of use: how easy is it to use?
+## Ease of use: How easy is it to use?
 
-The Exp45 uses a clamshell design which maximises space. It is really easy to store your clothes and belongings as it opens and packs like a suitcase. You need to open the entire backpack to access the main compartment, so we recommend storing quick access items in the front pocket such as your toiletries and electronics which you need to remove at security for inspection.
+The Exp45 uses a clamshell design which maximises space. It is really easy to store your clothes and belongings as it opens and packs like a suitcase. You need to open the entire backpack to access the main compartment. We recommend storing items you need to remove at security such as toiletries and electronics in the front pocket.
 
-The front pocket is deep and spacious too but can be fiddly to manoeuvre items around – but we don't think this is a deal breaker. This is where you'll also store your laptop which can fit a 16" device comfortably in its padded sleeve.
+The front pocket is deep and spacious but can be difficult to manoeuvre items around – but we don't think this is a deal breaker. This is where you'll also store your laptop which can fit a 16" device comfortably in its padded sleeve.
 
 There is a single side pocket big enough to store a reusable water bottle or small umbrella.
 
-## Security features: what makes it secure?
+## Security features: What makes it secure?
 
 ![Male Venturesafe Exp45](/src/assets/img/pacsafe-exp45-3.webp "Male Venturesafe Exp45")
 
@@ -76,27 +76,27 @@ One of the biggest selling points is the safety and security features of this pa
 
 ### Everything locks
 
-One feature we love about this backpack that makes it unique from most other backpacks on the market are the security locks sewn into the pack –
+One feature we love about this backpack that makes it unique to other backpacks on the market, are the security locks sewn into the pack. 
 
-There is also a fold over material on the outside of the pack which hides the security lock and your zips giving you extra peace of mind. You can also pack a raincoat or day sling in between it.
+There is also a fold over material on the outside of the pack which hides the security lock and your zips, giving you extra peace of mind. You can also pack a raincoat or day sling inbetween it.
 
 ### Cut-resistant material
 
-Pacsafe use its patented cut-resistant material to prevent someone from slashing your bag with a knife to access the contents of your bag.
+Pacsafe uses its patented cut-resistant material to prevent someone from slashing your bag with a knife to access the contents of your bag. This is a really inovative feature, particularly for those carry expensive camera equipment and personal belongings. 
 
 ### RFID blocking pocket
 
 It also comes with an RFID blocking pocket which means your credit and debit cards can be safely stored without scammers trying to read them.
 
-We also recommend with any backpack to pick yourself up a GPS tracking to place in the bag such as an [Air Tag](https://www.apple.com/uk/airtag/) or [Tile](https://www.amazon.co.uk/stores/Tile/Tile/page/7B4E193B-8FE3-48A9-A764-070D9C5DAF9F). If you ever leave it on a train or bus you'll be able to quickly locate it so it's a worthwhile insurance investment!
+We also recommend with any backpack to pick yourself up a GPS tracking to place in the bag such as an [Air Tag](https://www.apple.com/uk/airtag/) or [Tile](https://www.amazon.co.uk/stores/Tile/Tile/page/7B4E193B-8FE3-48A9-A764-070D9C5DAF9F). If you ever leave it on a train or bus you'll be able to quickly locate it making it a wortwhile investment!
 
-## Capacity: how much can it hold?
+## Capacity: How much can it hold?
 
 If you're not used to living out of a back-pack long-term, 45L is a generous size compared to most cabin bags. Typical cabin bags are between 20L-35L so the Exp45 really makes the most of the airline cabin-bag maximum limits.
 
 The main compartment is spacious and can fit one large packing cube and 2-3 small to medium size ones.
 
-Most airline limits have a maximum of 10kg for carry-on bags. The bag is pretty lightweight and maximises your ability to pack this bag out – wheeled cabin suitcases which typically weigh more than a backpack.
+Most airline limits have a maximum of 10kg for carry-on bags. The bag is pretty lightweight and maximises your ability to pack this bag out (wheeled cabin suitcases which typically weigh more than a backpack).
 
 ## Can you travel the world with the Venturesafe Exp45 it?
 
@@ -106,7 +106,7 @@ Yes! We've been travelling with the Pacsafe Venturesome EXP45 for more than thre
 
 We've flown on several different airlines in the past 3 months and have had no issues whatsoever.
 
-You'll have difficulty justifying this backpack as a personal item, so you'll have to pay for it as a cabin bag. One of the main benefits of carry-on backpacks is not having to queue up and check your bag in at the airport – which helps you dodge queues and reduces the chances of you losing your luggage.
+You'll have difficulty justifying this backpack as a personal item, so you'll have to pay for it as a cabin bag. One of the main benefits of carry-on backpacks is not having to queue up and check your bag in at the airport – which helps you dodge queues and reduce the chance of you losing your luggage.
 
 Here's a quick break-down of some of the popular airlines size requirements:
 
@@ -137,7 +137,7 @@ Here's a quick break-down of some of the popular airlines size requirements:
 _Please double-check your airlines to be safe as this table is not kept up-to-date._
 
 
-## Conclusion: should you buy it?
+## Conclusion: Should you buy it?
 
 We love our Exp45 back-packs, from the excellent build-quality and security features to its sleek, minimalistic style that makes the most of the maximum size regulations on most airlines.
 
