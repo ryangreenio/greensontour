@@ -10,6 +10,13 @@ module.exports = function (eleventyConfig) {
   // Plugins
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
+  // SEO Plugin
+  const pluginSEO = require("eleventy-plugin-seo");
+
+module.exports =  function(eleventyConfig) {
+  eleventyConfig.addPlugin(pluginSEO, require("./src/_data/seo.json"));
+};
+
   // Filters
   eleventyConfig.addFilter('markdown', markdownFilter);
   eleventyConfig.addFilter('readableDate', readableDateFilter);
