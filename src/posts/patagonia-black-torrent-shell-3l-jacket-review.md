@@ -49,6 +49,8 @@ Plenty of pockets, as well as 2 breathable arm pit zips to stop you from overhea
 
 ## Can I travel the world with it?
 
+![Torrent Shell 3L Jacket Patagonia](/src/assets/img/patagonia-3l-torrentshell.webp "Torrent Shell 3L Jacket Patagonia")
+
 Yes! In hotter climates, this jacket works well to protect you from rain showers without overheating. During winter months you can wear this over all your thermal layers as an outer shell (we also recommend wearing it with a puffer jacket as the raincoat is not designed to keep you warm) to stay toasty and dry.
 
 You might also want to check out [The North Face Resolve](https://www.thenorthface.co.uk/shop/en-gb/tnf-gb/men-jackets-waterproof/mens-resolve-jacket-ar9t?variationId=JK3) which is another fan favourite.
