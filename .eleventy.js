@@ -33,6 +33,9 @@ module.exports = function (eleventyConfig) {
 // Add robots.txt
   eleventyConfig.addPassthroughCopy("robots.txt");
 
+  // Add sitemap.xml
+  eleventyConfig.addPassthroughCopy("sitemap.xml");
+
   // eleventy-plugin-time-to-read
   const timeToRead = require('eleventy-plugin-time-to-read');
 
