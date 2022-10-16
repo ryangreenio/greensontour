@@ -11,6 +11,8 @@ tags:
 ---
 Should you buy the Patagonia Black Torrent Shell 3L? After 6 months of use during the summer and winter seasons, here are our thoughts on if you should buy this outer shell waterproof jacket.
 
+![Patagonia Torrent Shell 3L Jacket](/src/assets/img/patagonia-torrentshell-3l-cover.webp "Patagonia Torrent Shell 3L Jacket")
+
 ## What is the Patagonia Torrent Shell 3L Jacket?
 
 The Patagonia Torrent Shell 3L Jacket is a high-quality raincoat that performs well in torrential rain.
@@ -21,18 +23,17 @@ During the summer months, you can wear this over a t-shirt when it rains without
 
 Paired with the Patagonia nano puff jacket, these two travel jackets make the perfect combination when travelling across different climates. Both jackets pack away easily and provide the right level of warmth/coolness - whatever weather conditions you find yourself in.
 
-
 ## Pros
 
-- Packable
-- High-quality materials
-- Waterproof and breathable performance
-- Comfortable to wear
+* Packable
+* High-quality materials
+* Waterproof and breathable performance
+* Comfortable to wear
 
 ## Cons
 
-- Expensive
-- Fits a little big (had to go down a size)
+* Expensive
+* Fits a little big (had to go down a size)
 
 ## Key Features
 
@@ -87,5 +88,3 @@ This depends on the number of layers you intend to wear underneath. We recommend
 # Should you buy it?
 
 Our Verdict: 8/10: Yes, we'd recommend purchasing the [Patagonia Torrentshell 3L](https://eu.patagonia.com/gb/en/product/mens-torrentshell-3l-rain-jacket/85240.html)
-
-
