@@ -8,6 +8,11 @@ metaDescription: Should you buy the Patagonia Black Torrent Shell 3L? Read our
   review on if you should buy this outer shell waterproof jacket.
 tags:
   - post
+  - patagonia
+  - raincoat
+  - review
+  - jacket
+  - torrent shell
 ---
 Should you buy the Patagonia Black Torrent Shell 3L? After 6 months of use during the summer and winter seasons, here are our thoughts on if you should buy this outer shell waterproof jacket.
 
