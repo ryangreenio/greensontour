@@ -47,7 +47,19 @@ module.exports =  function(eleventyConfig) {
   const timeToRead = require('eleventy-plugin-time-to-read');
 
 module.exports = function(eleventyConfig) {
-  eleventyConfig.addPlugin(timeToRead);
+  eleventyConfig.addPlugin(timeToRead, {
+    speed: '1000 characters per minute',
+    language: 'en',
+    style: 'long',
+    type: 'unit',
+    hours: 'auto',
+    minutes: true,
+    seconds: false,
+    digits: 1,
+    output: function(data) {
+      return data.timing;
+    }
+  });
 }
 
   // Don't process folders with static assets
