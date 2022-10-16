@@ -11,6 +11,9 @@ metaDescription: We've put together the ultimate list of best offline travel
   without wifi.
 tags:
   - post
+  - apps
+  - offline
+  - travel
 ---
 It can be easy to take for granted not having the internet in your pocket when you're traveling overseas. When traveling it's not always possible to have access to the internet availability that we're used to.
 
