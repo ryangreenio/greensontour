@@ -4,7 +4,7 @@ author: Ryan Green
 metaDescription: Looking for a backpack to travel the world in? Should it be the Venturesafe Exp45? We've put together this useful guide to help you make the right choice for your travel needs.
 date: 2022-10-15
 summary: Looking for a backpack to travel the world in? Should it be the Venturesafe Exp45?
-image: pacsafe-exp45-2.webp
+image: /src/assets/img/couple-photo.webp
 tags:
   - pacsafe
   - review
