@@ -45,6 +45,8 @@ Skólavörðustígur honors Reykjavik Pride which has been celebrated annually s
 
 ## 4. Tjörnin
 
+![Tjörnin](/src/assets/img/tjörnin.webp "Tjörnin")
+
 Tjörnin is a small but prominent lake that is situated in the capital. It is surrounded by lots of cultural sites such as the [Gallery of Iceland](https://www.listasafn.is/en/) and [City Hall](https://visitreykjavik.is/city-hall).
 
 One corner of the lake is geothermically heated, which means even in the freezing winters it will never freeze over. It's a perfect scenic walk to go on, just be sure to grab yourself a hot chocolate too!
