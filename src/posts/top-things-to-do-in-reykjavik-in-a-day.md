@@ -23,7 +23,7 @@ With a total of 376,000 people living in Iceland, Reykjavik makes up half of the
 
 With only a few hours to explore this vibrant city, we managed to narrow down some of the top things we wanted to do.
 
-## 1. Laugavegur
+## 1. Laugavegur 
 
 It took us a bit of time to realize we were already here as this is a popular street in Reykjavik. It hosts some of the best shops, restaurants, and bars.
 
