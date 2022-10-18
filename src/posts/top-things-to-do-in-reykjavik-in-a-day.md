@@ -43,7 +43,7 @@ Skólavörðustígur honors Reykjavik Pride which has been celebrated annually s
 
 ## 4. Tjörnin
 
-![Tjörnin](/src/assets/img/tjörnin.webp "Tjörnin")
+![Tjörnin](/src/assets/img/tjornin.webp "Tjörnin")
 
 Tjörnin is a small but prominent lake that is situated in the capital. It is surrounded by lots of cultural sites such as the [Gallery of Iceland](https://www.listasafn.is/en/) and [City Hall](https://visitreykjavik.is/city-hall).
 
