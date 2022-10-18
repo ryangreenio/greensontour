@@ -87,6 +87,6 @@ A trip to Reykjavik would not be complete without trying some local cuisine. Typ
 
 The [Perlan](https://www.perlan.is/en-gb) offers an incredible 360 view of Iceland where you can enjoy lunch with a view. We also paid for tickets which give you access to the world's first indoor ice cave and Iceland's only planetarium where you can learn more about the northern lights.
 
-## Is Reykjavik worth visiting?
+## Is Reykjavik Worth Visiting?
 
 Yes, we think Reykjavik is an unmissable city when visiting Iceland and we highly recommend a trip. You'll be able to pack most of this list in one day but we recommend two full days to experience it fully.
