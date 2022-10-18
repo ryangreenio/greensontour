@@ -15,9 +15,7 @@ tags:
   - Couple
   - Adventure
 ---
-# Top Things To Do In Reykjavik In A Day
-
-Reykjavik is the capital city of Iceland, a beautiful country located between Greenland and Norway, and slightly North East of the UK.
+Reykjavik is the capital city of Iceland, a beautiful country located between Greenland and Norway, and slightly North East of the UK. 
 
 With a total of 376,000 people living in Iceland, Reykjavik makes up half of the Icelandic population (135,688).
 
