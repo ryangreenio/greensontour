@@ -1,5 +1,5 @@
 ---
-title: Best offline travel apps for internet free travelling
+title: Best Offline Travel Apps For Internet Free Travelling
 date: 2022-10-16T13:36:04.742Z
 author: Georgia Green
 summary: We've put together the ultimate list of best offline travel apps for
@@ -15,6 +15,8 @@ tags:
   - offline
   - travel
 ---
+![Offline Travel Apps](/src/assets/img/netflix-app-offline.webp "Offline Travel Apps")
+
 It can be easy to take for granted not having the internet in your pocket when you're traveling overseas. When traveling it's not always possible to have access to the internet availability that we're used to.
 
 We often arrive in a new country and the first thing we want to do is book a taxi, tell someone we're safe, or open up a map and figure out how to get from A to Z.
