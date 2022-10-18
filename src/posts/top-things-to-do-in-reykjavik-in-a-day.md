@@ -37,6 +37,8 @@ Hallgrimskirkja is the most visited place by tourists in Iceland each year, with
 
 ## 3. Rainbow Street (Skólavörðustígur)
 
+![Rainbow Street](/src/assets/img/rainbow-street.webp "Rainbow Street")
+
 If you're anything like me and you love a bit of street color, the rainbow street will not disappoint! I can't think of anything better than a colorful street, especially one that shows support for the local LGBTQ community. There is also a fantastic crepe place right next to the rainbow which offers gluten-free and vegan crepes.
 
 Skólavörðustígur honors Reykjavik Pride which has been celebrated annually since 1999. It represents inclusivity and diversity and has become a permanent part of downtown Reykjavik.
