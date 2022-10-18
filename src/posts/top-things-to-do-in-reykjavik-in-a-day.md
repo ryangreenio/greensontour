@@ -73,6 +73,8 @@ Perhaps our top thing to do in Iceland was the Sky Lagoon. A geothermal pool is 
 
 ## 9. Icelandic restaurant
 
+![The Old Icelandic Restaurant](/src/assets/img/old-icelandic-restaraunt.webp "The Old Icelandic Restaurant")
+
 A trip to Reykjavik would not be complete without trying some local cuisine. Typically this consists of fish, lamb, or Icelandic skyr (a type of yogurt). Our favorite restaurant was The Old Icelandic Restaurant but there are many great options to choose from.
 
 ## 10. Perland
