@@ -77,9 +77,11 @@ Perhaps our top thing to do in Iceland was the Sky Lagoon. A geothermal pool is 
 
 A trip to Reykjavik would not be complete without trying some local cuisine. Typically this consists of fish, lamb, or Icelandic skyr (a type of yogurt). Our favorite restaurant was The Old Icelandic Restaurant but there are many great options to choose from.
 
-## 10. Perland
+## 10. Perlan
 
-The [Perland](https://www.perlan.is/en-gb) offers an incredible 360 view of Iceland where you can enjoy lunch with a view. We also paid for tickets which give you access to the world's first indoor ice cave and Iceland's only planetarium where you can learn more about the northern lights.
+![Perlan](/src/assets/img/perlan.webp "Perlan")
+
+The [Perlan](https://www.perlan.is/en-gb) offers an incredible 360 view of Iceland where you can enjoy lunch with a view. We also paid for tickets which give you access to the world's first indoor ice cave and Iceland's only planetarium where you can learn more about the northern lights.
 
 ## Is Reykjavik worth visiting?
 
