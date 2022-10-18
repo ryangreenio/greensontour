@@ -67,6 +67,8 @@ The [Harpan](https://harpa.is/en/) is a concert hall and conference center built
 
 ## 8. Sky Lagoon
 
+![Sky Lagoon Reykjavik](/src/assets/img/sky-lagoon.webp "Sky Lagoon Reykjavik")
+
 Perhaps our top thing to do in Iceland was the Sky Lagoon. A geothermal pool is situated on the edge of the sea. With spectacular views and a swim-up bar we highly recommend a visit.
 
 ## 9. Icelandic restaurant
