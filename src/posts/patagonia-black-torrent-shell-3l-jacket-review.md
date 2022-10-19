@@ -4,7 +4,7 @@ date: 2022-10-16T12:46:22.621Z
 author: Ryan Green
 summary: Should you buy the Patagonia Black Torrent Shell 3L? Read our review on
   if you should buy this outer shell waterproof jacket.
-image: /src/assets/img/patagonia-torrentshell-3l-cover.webp
+image: /assets/img/patagonia-torrentshell-3l-cover.webp
 metaDescription: Should you buy the Patagonia Black Torrent Shell 3L? Read our
   review on if you should buy this outer shell waterproof jacket.
 tags:
