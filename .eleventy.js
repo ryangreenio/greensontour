@@ -48,8 +48,9 @@ module.exports =  function(eleventyConfig) {
 
   // SEO redirects
   module.exports = (eleventyConfig) => {
+
     // Assuming your file resides under src/_redirects
-    eleventyConfig.addPassthroughCopy('_redirects');
+    eleventyConfig.addPassthroughCopy('src/_redirects');
   }
 
 module.exports = function(eleventyConfig) {
