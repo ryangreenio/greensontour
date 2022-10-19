@@ -37,7 +37,7 @@ module.exports =  function(eleventyConfig) {
   // Minify HTML output
   eleventyConfig.addTransform('htmlmin', minifyHtml);
 
-// Add robots.txt
+  // Add robots.txt
   eleventyConfig.addPassthroughCopy("robots.txt");
 
   // Add sitemap.xml
