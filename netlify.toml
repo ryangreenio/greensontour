@@ -7,6 +7,38 @@
   to = "/about"
   status = 301
 
+[[redirects]]
+  from = "/test"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/category/uncategorized"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/contact-2"
+  to = "/contact"
+  status = 301
+
+[[redirects]]
+  from = "/sample-page"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/hello-world"
+  to = "/"
+  status = 301
+
+  [[redirects]]
+  from = "/posts/pacsafe-venturesafe-exp45-review"
+  to = "/blog/pacsafe-venturesafe-exp45-review"
+  status = 301
+
+
+
 # REDIRECT and HEADERS examples
 
 # Redirect rule example
