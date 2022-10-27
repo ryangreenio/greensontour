@@ -2,7 +2,7 @@
 title: About Us
 subtitle: ""
 metaDescription: Learn more about Greens On Tour and everything you need to know about how we got started. 
-image: /assets/img/couple-photo.webp
+image: ../assets/img/couple-photo.webp 
 date: 2022-01-01
 permalink: /about/index.html
 eleventyNavigation:
