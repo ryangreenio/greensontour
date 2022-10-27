@@ -1,7 +1,0 @@
-# Redirects from what the browser requests to what we serve
-/about-2/                    /about
-/test/                       /
-/category/uncategorized/     /
-/contact-2/                  /contact
-/sample-page/                /
-/hello-world/                /
