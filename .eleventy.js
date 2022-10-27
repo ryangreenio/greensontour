@@ -47,11 +47,12 @@ module.exports =  function(eleventyConfig) {
   const timeToRead = require('eleventy-plugin-time-to-read');
 
   // SEO redirects
+  
   module.exports = (eleventyConfig) => {
-
     // Assuming your file resides under src/_redirects
-    eleventyConfig.addPassthroughCopy('src/_redirects');
+    eleventyConfig.addPassthroughCopy('_redirects');
   }
+
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(timeToRead, {
