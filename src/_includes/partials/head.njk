@@ -6,7 +6,7 @@
   <link rel="canonical" href={ page.url }/>
   <link rel="dns-prefetch" href="https://identity.netlify.com">
   <meta name="robots" content="index, follow" />
-  <meta property="og:image" content="/assets/img/profile-photo.webp"/>
+  <meta name="og:image" content="{{ renderData.image or image or metadata.image }}"/>
 
   {# Third-party scripts #}
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
