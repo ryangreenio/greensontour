@@ -10,7 +10,7 @@ tags:
   - backpack
   - travel
   - exp45
-og-image: /assets/img/test.jpg
+image: ../assets/img/test.jpg
 ---
 
 ![Male Venturesafe Exp45](/src/assets/img/pacsafe-exp45-8.webp "Male Venturesafe Exp45")

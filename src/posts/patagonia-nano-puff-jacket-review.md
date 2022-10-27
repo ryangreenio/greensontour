@@ -4,7 +4,7 @@ date: 2022-10-18T14:41:02.583Z
 author: Greens On Tour
 summary: The Patagonia nano puff jacket is an expensive investment compared to
   other puffer jackets on the market, so is it worth the price tag?
-image: /assets/img/patagonia-nano-puff-black.webp
+image: ../assets/img/patagonia-nano-puff-black.webp
 metaDescription: The Patagonia nano puff jacket is an expensive investment
   compared to other puffer jackets on the market, so is it worth the price tag?
 tags:

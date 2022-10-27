@@ -4,7 +4,7 @@ date: 2022-10-18T17:56:58.621Z
 author: Georigia Green
 summary: "Looking for top things to do in Reykjavik in a day? We've put together
   the ultimate list to see Reykjavik in a day. "
-image: /src/assets/img/rainbow-street.webp
+image: ../assets/img/rainbow-street.webp
 metaDescription: "Looking for top things to do in Reykjavik in a day? We've put
   together the ultimate list to see Reykjavik in a day. "
 tags:

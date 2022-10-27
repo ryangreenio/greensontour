@@ -5,7 +5,7 @@ author: Georgia Green
 summary: We've put together the ultimate list of best offline travel apps for
   internet free travelling. Find out which apps can help you travel without
   wifi.
-image: /assets/img/netflix-app-offline.webp
+image: ../assets/img/netflix-app-offline.webp
 metaDescription: We've put together the ultimate list of best offline travel
   apps for internet free travelling. Find out which apps can help you travel
   without wifi.
