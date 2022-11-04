@@ -93,6 +93,8 @@ We also recommend with any backpack to pick yourself up a GPS tracking to place 
 
 ## Capacity: How much can it hold?
 
+![Pacsafe Packing Cubes](/src/assets/img/pacsafe-packing-cubes.webp "Pacsafe Packing Cubes")
+
 If you're not used to living out of a back-pack long-term, 45L is a generous size compared to most cabin bags. Typical cabin bags are between 20L-35L so the Exp45 really makes the most of the airline cabin-bag maximum limits.
 
 The main compartment is spacious and can fit one large packing cube and 2-3 small to medium size ones.
